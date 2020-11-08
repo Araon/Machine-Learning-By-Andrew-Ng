@@ -1,1 +1,1 @@
-## Associated Excersise for Machine Learning Course by Andrew NG
+## Accompanying Exercises for Machine Learning Course by Andrew NG
